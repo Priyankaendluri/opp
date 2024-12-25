@@ -1,0 +1,14 @@
+body{
+margin:0;
+height:100vh;
+background-color:black;
+}
+span{
+background:url("https://cdn4.iconfinder.com/data/icons/twitter-29/512/166_Heart_Love_Like_Twitter-256.png");
+width:100px;
+Height::100px;
+position:absolute;
+background-size:cover;
+left:50%;
+top:50%;
+}
